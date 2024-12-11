@@ -11,6 +11,7 @@ LeetCode problems I have solved.
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
@@ -19,6 +20,7 @@ LeetCode problems I have solved.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -26,6 +28,7 @@ LeetCode problems I have solved.
 | ------- |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
