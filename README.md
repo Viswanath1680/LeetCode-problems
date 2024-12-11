@@ -5,6 +5,7 @@ LeetCode problems I have solved.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
@@ -27,6 +28,7 @@ LeetCode problems I have solved.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -37,6 +39,7 @@ LeetCode problems I have solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
