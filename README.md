@@ -13,6 +13,7 @@ LeetCode problems I have solved.
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -24,6 +25,7 @@ LeetCode problems I have solved.
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -32,6 +34,7 @@ LeetCode problems I have solved.
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
@@ -59,6 +62,7 @@ LeetCode problems I have solved.
 ## Sliding Window
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
