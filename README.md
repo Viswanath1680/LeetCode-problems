@@ -21,6 +21,7 @@ LeetCode problems I have solved.
 | [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -41,6 +42,7 @@ LeetCode problems I have solved.
 | [0560-subarray-sum-equals-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
@@ -58,6 +60,7 @@ LeetCode problems I have solved.
 | ------- |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Two Pointers
 |  |
 | ------- |
