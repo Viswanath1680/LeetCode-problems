@@ -5,6 +5,7 @@ LeetCode problems I have solved.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0031-next-permutation) |
@@ -60,6 +61,7 @@ LeetCode problems I have solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0031-next-permutation) |
@@ -93,4 +95,8 @@ LeetCode problems I have solved.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
