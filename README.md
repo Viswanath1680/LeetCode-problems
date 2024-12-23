@@ -13,6 +13,7 @@ LeetCode problems I have solved.
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -106,6 +107,7 @@ LeetCode problems I have solved.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -121,4 +123,8 @@ LeetCode problems I have solved.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0045-jump-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
