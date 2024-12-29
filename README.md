@@ -99,6 +99,7 @@ LeetCode problems I have solved.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
@@ -135,4 +136,8 @@ LeetCode problems I have solved.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
