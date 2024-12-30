@@ -12,6 +12,7 @@ LeetCode problems I have solved.
 | [0041-first-missing-positive](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0056-merge-intervals) |
@@ -63,6 +64,7 @@ LeetCode problems I have solved.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -134,6 +136,7 @@ LeetCode problems I have solved.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
