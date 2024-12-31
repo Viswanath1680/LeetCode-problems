@@ -122,6 +122,7 @@ LeetCode problems I have solved.
 | [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +141,7 @@ LeetCode problems I have solved.
 | [0053-maximum-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
