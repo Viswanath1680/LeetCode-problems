@@ -102,6 +102,7 @@ LeetCode problems I have solved.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
