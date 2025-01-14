@@ -18,6 +18,7 @@ LeetCode problems I have solved.
 | [0056-merge-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -117,6 +118,7 @@ LeetCode problems I have solved.
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Bit Manipulation
