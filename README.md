@@ -40,6 +40,7 @@ LeetCode problems I have solved.
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +68,7 @@ LeetCode problems I have solved.
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1319-unique-number-of-occurrences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
@@ -140,6 +142,7 @@ LeetCode problems I have solved.
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0338-counting-bits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Simulation
 |  |
 | ------- |
