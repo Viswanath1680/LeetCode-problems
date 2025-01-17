@@ -1,31 +1,19 @@
-void Print(int Pointer, vector<int>& arr, vector<int>& temp, vector<vector<int>>& ans) {
-    if (Pointer == arr.size()) {
-        ans.emplace_back(temp);
-        return;
-    }
-    temp.emplace_back(arr[Pointer]);
-    Print(Pointer + 1, arr, temp, ans);
-    temp.pop_back();
-    Print(Pointer + 1, arr, temp, ans);
-    return;
-}
-
 class Solution {
 public:
-    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<int> temp;
-        vector<vector<int>> ans;
-        sort( nums.begin(), nums.end() );
-        Print(0, nums, temp, ans);
-
+    vector<vector<int>> subsetsWithDup(vector<int>& arr) {
+        sort(arr.begin(),arr.end());
         set<vector<int>> ans_set;
-        for (auto it : ans)
-            ans_set.insert(it);
-
-        ans.clear();
-        for (auto it : ans_set)
-            ans.emplace_back(it);
-
+        int n = arr.size();
+        int psize = 1 << n;
+        for( int i = 0; i < psize; i++ ){
+            vector<int>temp;
+            for(int j = 0; j < n; j++){
+                if( i & (1 << j) )  temp.emplace_back(arr[j]);
+            }
+            ans_set.insert( temp );
+        }
+        vector<vector<int>>ans;
+        for( auto it : ans_set )    ans.emplace_back( it );
         return ans;
     }
 };
