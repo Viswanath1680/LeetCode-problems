@@ -1,22 +1,15 @@
 class Solution {
 public:
-    void recursive( vector<int>& arr, vector<vector<int>>& answer, vector<int>& temp, int i ){
-        int n = arr.size();
-        if( i == n ){
-            answer.emplace_back( temp );
-            return;
+    vector<vector<int>> subsets(vector<int>& arr) {
+        vector<vector<int>> ans;
+        int psize = 1 << arr.size();
+        for( int i = 0; i < psize; i++ ){
+            vector<int> temp;
+            for( int j = 0; j < arr.size(); j++ ){
+                if( i & (1 << j ) )     temp.emplace_back(arr[j]);
+            }
+            ans.emplace_back(temp);
         }
-        temp.emplace_back( arr[i] );
-        recursive( arr, answer, temp, i+1 );
-        temp.pop_back();
-        recursive(arr, answer, temp, i+1);
-        return;
-    }
-
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> answer;
-        vector<int>temp;
-        recursive( nums, answer, temp, 0 );
-        return answer;
+        return ans;
     }
 };
