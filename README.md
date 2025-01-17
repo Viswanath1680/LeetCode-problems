@@ -46,6 +46,7 @@ LeetCode problems I have solved.
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2792-neighboring-bitwise-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
@@ -162,6 +163,7 @@ LeetCode problems I have solved.
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2659-number-of-even-and-odd-bits) |
+| [2792-neighboring-bitwise-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Simulation
 |  |
