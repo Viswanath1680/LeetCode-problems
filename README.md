@@ -1,4 +1,4 @@
-LeetCode problems I have solved.
+DSA problems I have solved in both LeetCode and gfg
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
