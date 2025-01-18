@@ -134,6 +134,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
@@ -157,6 +158,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0338-counting-bits) |
@@ -199,6 +201,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## String
