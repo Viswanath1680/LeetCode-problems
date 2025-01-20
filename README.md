@@ -32,6 +32,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -194,6 +195,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0338-counting-bits) |
+| [0747-min-cost-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
 ## Backtracking
