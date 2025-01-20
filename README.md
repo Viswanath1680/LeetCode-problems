@@ -145,6 +145,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
@@ -228,6 +229,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
@@ -261,6 +263,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
