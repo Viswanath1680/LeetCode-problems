@@ -94,6 +94,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0053-maximum-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0191-number-of-1-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
@@ -173,6 +174,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0260-single-number-iii) |
