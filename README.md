@@ -197,6 +197,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0120-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0338-counting-bits) |
+| [0516-longest-palindromic-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
@@ -216,6 +217,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
