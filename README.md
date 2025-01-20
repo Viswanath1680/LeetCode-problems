@@ -69,6 +69,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0041-first-missing-positive](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -121,6 +122,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0031-next-permutation](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0647-palindromic-substrings) |
@@ -140,6 +142,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
