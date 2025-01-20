@@ -28,6 +28,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
@@ -71,6 +72,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0041-first-missing-positive](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -102,6 +104,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0088-merge-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1217-relative-sort-array) |
@@ -146,6 +149,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0172-factorial-trailing-zeroes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
@@ -160,6 +164,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Bit Manipulation
@@ -171,6 +176,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0191-number-of-1-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0338-counting-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
