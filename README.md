@@ -216,6 +216,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0055-jump-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Dynamic Programming
@@ -257,6 +258,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Memoization
 |  |
 | ------- |
