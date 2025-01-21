@@ -285,6 +285,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -295,6 +296,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0110-balanced-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -307,6 +309,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0110-balanced-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -316,6 +319,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0101-symmetric-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
@@ -326,6 +330,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0110-balanced-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
