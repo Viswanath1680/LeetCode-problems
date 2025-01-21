@@ -50,6 +50,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -68,6 +69,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
+| [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +169,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
+| [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
 |  |
