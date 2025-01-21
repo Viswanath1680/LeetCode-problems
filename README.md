@@ -129,6 +129,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0011-container-with-most-water](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0042-trapping-rain-water) |
@@ -270,6 +271,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
