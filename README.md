@@ -292,6 +292,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -318,6 +319,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
@@ -326,6 +328,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
