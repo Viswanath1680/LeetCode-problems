@@ -18,6 +18,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0055-jump-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
@@ -177,11 +178,13 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
