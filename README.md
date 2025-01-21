@@ -285,6 +285,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -293,6 +294,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -307,6 +309,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
