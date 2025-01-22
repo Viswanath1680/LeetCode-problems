@@ -61,6 +61,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2792-neighboring-bitwise-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -80,6 +81,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +289,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Memoization
