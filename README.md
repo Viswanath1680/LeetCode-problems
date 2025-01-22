@@ -56,6 +56,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -192,6 +193,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
+| [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
@@ -353,6 +355,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
+| [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
 |  |
 | ------- |
