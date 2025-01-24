@@ -353,6 +353,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -364,6 +365,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
+| [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
@@ -420,4 +422,12 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
