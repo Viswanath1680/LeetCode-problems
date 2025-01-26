@@ -306,6 +306,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3468-find-the-encrypted-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Memoization
 |  |
