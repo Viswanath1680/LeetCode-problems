@@ -33,6 +33,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0239-sliding-window-maximum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
@@ -161,6 +162,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0088-merge-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0567-permutation-in-string) |
