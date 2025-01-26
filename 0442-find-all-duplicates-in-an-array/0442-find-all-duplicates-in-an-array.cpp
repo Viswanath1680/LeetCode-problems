@@ -1,19 +1,18 @@
 class Solution {
 public:
-    vector<int> findDuplicates(vector<int>& arr) {
-        int n = arr.size();
-        for( int i = 0; i < n; i++ ){
-            int real_index = arr[i] - 1;
-            if( arr[real_index] != arr[i] ){
-                swap( arr[i], arr[real_index] );
+    vector<int> findDuplicates(vector<int>& nums) {
+        int n = nums.size();
+        for( int i = 0 ; i < n ; i++){
+            int actual = nums[i] - 1;
+            if( nums[actual] != nums[i] ){
+                swap( nums[actual], nums[i] );
                 i--;
             }
         }
-        // for( auto it : arr )    cout << it << " ";
-        vector<int>answer;
-        for( int i = 0; i < n; i++ ){
-            if( i != arr[i]-1 ) answer.emplace_back( arr[i] );
+        vector<int> ans;
+        for( int i = 0 ; i < n ; i++ ){
+            if( nums[i] != i+1 )    ans.push_back(nums[i]);
         }
-        return answer;
+        return ans;
     }
 };
