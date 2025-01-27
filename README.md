@@ -35,6 +35,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
@@ -279,6 +280,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
@@ -393,6 +395,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
