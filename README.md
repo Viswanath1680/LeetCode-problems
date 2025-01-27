@@ -71,6 +71,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2792-neighboring-bitwise-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3469-maximum-height-of-a-triangle) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -472,4 +473,8 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
+## Enumeration
+|  |
+| ------- |
+| [3469-maximum-height-of-a-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3469-maximum-height-of-a-triangle) |
 <!---LeetCode Topics End-->
