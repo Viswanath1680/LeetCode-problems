@@ -31,6 +31,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0164-maximum-gap](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0260-single-number-iii) |
@@ -291,6 +292,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0516-longest-palindromic-subsequence) |
