@@ -14,6 +14,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0042-trapping-rain-water](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0055-jump-game) |
@@ -101,6 +102,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
@@ -145,6 +147,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0164-maximum-gap) |
@@ -326,6 +329,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
