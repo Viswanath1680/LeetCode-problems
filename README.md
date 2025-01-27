@@ -25,6 +25,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0164-maximum-gap) |
@@ -98,6 +99,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
@@ -458,6 +460,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
