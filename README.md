@@ -71,6 +71,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
