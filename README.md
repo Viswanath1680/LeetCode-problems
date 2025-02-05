@@ -88,6 +88,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -214,6 +215,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
 |  |
 | ------- |
@@ -298,6 +300,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
 |  |
 | ------- |
