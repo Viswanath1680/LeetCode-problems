@@ -225,6 +225,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
@@ -264,6 +265,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0136-single-number) |
@@ -286,6 +288,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 ## Greedy
@@ -343,6 +346,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
