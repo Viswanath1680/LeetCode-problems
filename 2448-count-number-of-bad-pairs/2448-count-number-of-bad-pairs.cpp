@@ -16,7 +16,7 @@ public:
         }
         long long ans = nC2(n);
         for( auto it : ump ){
-            ans -= nC2( it.second );
+            if( it.second != 1 )    ans -= nC2( it.second );
         }
         return ans;
     }
