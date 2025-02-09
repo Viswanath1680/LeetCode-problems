@@ -348,6 +348,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0002-add-two-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
@@ -399,6 +400,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
