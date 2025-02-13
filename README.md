@@ -83,6 +83,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3429-special-array-i) |
@@ -305,6 +306,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3447-clear-digits) |
 ## Greedy
@@ -538,6 +540,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0347-top-k-frequent-elements](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
 | [2434-design-a-number-container-system](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
