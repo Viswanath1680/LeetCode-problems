@@ -12,31 +12,29 @@ public:
     string convertToString(int n){
         string ans;
         while( n ){
-            if( n & 1 ) ans += '1';
-            else    ans += '0';
+            if( n & 1 ) ans = '1' + ans;
+            else    ans = '0' + ans;
             n = n >> 1;
         }
-        reverse(ans.begin(), ans.end());
         return ans;
     }
 
     string findDifferentBinaryString(vector<string>& nums) {
-        vector<int>arr;
+        sort(nums.begin(),nums.end());
         int len = nums[0].length();
+        int count = 0;
         for( auto it : nums ){
             int temp = convertToInt(it);
-            arr.emplace_back(temp);
-        }
-        sort(arr.begin(),arr.end());
-        for( int i = 0; i < arr.size(); i++ ){
-            if( arr[i] != i ){
-                string temp = convertToString(i);
-                while( temp.length() < len )    temp = '0' + temp;
-                return temp;
+            if( temp != count ){
+                string ans = convertToString(count);
+                while( ans.length() < len ) ans = '0' + ans;
+                return ans;
             }
+            count++;
         }
-        string temp = convertToString(arr.size());
-        while( temp.length() < len )    temp = '0' + temp;
-        return temp; 
+
+        string ans = convertToString(count);
+        while( ans.length() < len ) ans = '0' + ans;
+        return ans;
     }
 };
