@@ -76,6 +76,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -145,6 +146,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -363,6 +365,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1160-letter-tile-possibilities](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -396,6 +399,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
