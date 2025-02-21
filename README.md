@@ -144,6 +144,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1319-unique-number-of-occurrences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
@@ -460,6 +461,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -480,6 +482,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -500,6 +503,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
@@ -526,6 +530,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -609,6 +614,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
