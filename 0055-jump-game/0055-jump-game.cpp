@@ -1,16 +1,12 @@
 class Solution {
 public:
     bool canJump(vector<int>& arr) {
-        int n = arr.size();
-        vector<bool>dp(n, false);
-        dp[0] = true;
-        for( int i = 0; i < n; i++ ){
-            int j;
-            for( int k = 1; k <= arr[i]; k++ ){
-                j = i + k;
-                if( j < n ) dp[j] = dp[j] || ( dp[i] && true ); 
+        int maxJump = arr[0], n = arr.size();
+        for( int i = 1; i < n; i++){
+            if( maxJump >= i ){
+                maxJump = max(maxJump, i + arr[i]);
             }
         }
-        return dp[n-1];
+        return maxJump >= n-1;
     }
 };
