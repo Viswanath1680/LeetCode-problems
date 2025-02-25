@@ -5,6 +5,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0015-3sum) |
@@ -122,6 +123,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0049-group-anagrams) |
