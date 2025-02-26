@@ -78,6 +78,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -372,6 +373,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0954-maximum-sum-circular-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Backtracking
