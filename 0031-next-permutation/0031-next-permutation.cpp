@@ -7,6 +7,7 @@ public:
             if( arr[i] <= arr[i-1] )    i--;
             else    break;
         }
+        // i == 0 implies it is the last permutation. Hence the next one is the sorted array.
         if( i == 0 ){
             sort( arr.begin(), arr.end() );
             return;
