@@ -91,6 +91,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2448-count-number-of-bad-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2551-apply-operations-to-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -245,6 +246,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0647-palindromic-substrings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0647-palindromic-substrings) |
 | [0979-di-string-match](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2551-apply-operations-to-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -341,6 +343,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
+| [2551-apply-operations-to-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3447-clear-digits) |
