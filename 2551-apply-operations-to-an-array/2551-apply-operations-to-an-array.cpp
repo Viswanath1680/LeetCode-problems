@@ -1,13 +1,17 @@
 class Solution {
 public:
+    // Delete all the zero instances in the array while tracking the count of zeroes.
+    // After array is done, append that many zeroes to the arr.
     void moveZeroes(vector<int>& arr) {
         int count = 0;
-        for( int i = 0; i < arr.size(); i++ ){
-            if( arr[i] != 0 ){
-                swap(arr[i], arr[count]);
+        for( auto it = arr.begin(); it != arr.end();){
+            if( *it == 0 ){
+                it = arr.erase(it);
                 count++;
             }
+            else    it++;
         }
+        while(count--)  arr.emplace_back(0);
     }
 
     vector<int> applyOperations(vector<int>& arr) {
