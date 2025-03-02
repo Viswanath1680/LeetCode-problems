@@ -16,11 +16,13 @@ private:
         if (memo[i][j][k] != -1) {
             return memo[i][j][k];
         }
-        
+        // skip current i
         int result = recursive(s, i + 1, j, k, memo);
-        
+
+        // skip current j        
         result = max(result, recursive(s, i, j - 1, k, memo));
         
+        // try making them equal. result is the max of all these possibilites.
         if (s[i] == s[j]) {
             result = max(result, 2 + recursive(s, i + 1, j - 1, k, memo));
         } else if (k > 0) {
@@ -40,7 +42,6 @@ private:
     }
     
     int minOps(char c1, char c2) {
-        if (c1 == c2) return 0;
         int dist = abs(c1 - c2);
         return min(dist, 26 - dist);
     }
