@@ -281,6 +281,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
@@ -345,6 +346,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0415-add-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
@@ -424,6 +426,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
+| [0415-add-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0567-permutation-in-string) |
