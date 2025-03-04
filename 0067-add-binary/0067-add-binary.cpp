@@ -15,7 +15,7 @@ public:
             int bitB = b[i] - '0';  
             int sum = bitA + bitB + carry;
 
-            ans += (sum % 2) + '0'; 
+            ans += (sum % 2) + '0'; // adding '0' converts sum%10 into char.
             carry = sum / 2;        
         }
 
