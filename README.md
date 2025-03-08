@@ -268,6 +268,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
 |  |
@@ -454,6 +455,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3447-clear-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3447-clear-digits) |
