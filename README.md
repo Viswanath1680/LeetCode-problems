@@ -95,6 +95,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2551-apply-operations-to-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -234,6 +235,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
@@ -335,6 +337,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
