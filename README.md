@@ -72,6 +72,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1217-relative-sort-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1319-unique-number-of-occurrences) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
@@ -339,6 +340,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
