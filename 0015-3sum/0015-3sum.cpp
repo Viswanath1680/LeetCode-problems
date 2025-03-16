@@ -8,7 +8,6 @@ public:
         vector<vector<int>> ans;
         set<vector<int>> s;
         for( int i = 0 ; i < n-2;){
-            // vector<vector<int>>temp;
             for( int j = i + 1; j < n-1;){
                 int target = -1 * ( nums[i] + nums[j] );
                 if( mp.find(target) != mp.end() ){
