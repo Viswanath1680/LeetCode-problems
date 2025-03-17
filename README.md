@@ -91,6 +91,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -180,6 +181,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -240,6 +242,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -369,6 +372,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2659-number-of-even-and-odd-bits) |
