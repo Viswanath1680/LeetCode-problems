@@ -78,6 +78,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1483-rank-teams-by-votes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1483-rank-teams-by-votes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
@@ -177,6 +178,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1483-rank-teams-by-votes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1483-rank-teams-by-votes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -225,6 +227,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1483-rank-teams-by-votes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1483-rank-teams-by-votes) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -240,6 +243,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1160-letter-tile-possibilities](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
+| [1483-rank-teams-by-votes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1483-rank-teams-by-votes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -474,6 +478,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1160-letter-tile-possibilities](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1483-rank-teams-by-votes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1483-rank-teams-by-votes) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
