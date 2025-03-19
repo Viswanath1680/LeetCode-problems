@@ -37,6 +37,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0260-single-number-iii) |
@@ -343,6 +344,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
@@ -584,6 +586,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0144-binary-tree-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -609,6 +612,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
@@ -699,6 +703,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
