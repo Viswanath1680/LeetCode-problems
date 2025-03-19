@@ -1,5 +1,8 @@
 class Solution {
 public:
+// iterate over strs and sort them. Store their index in the map.
+// then append all indices in a key in a single vector.
+// return the vector<vector>>
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         map<string, vector<int>> mp;
         int i = 0;
