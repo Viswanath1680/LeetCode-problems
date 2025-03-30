@@ -175,6 +175,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0560-subarray-sum-equals-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0645-set-mismatch) |
+| [0768-partition-labels](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -293,6 +294,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1894-merge-strings-alternately) |
@@ -440,6 +442,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0055-jump-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
+| [0768-partition-labels](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0778-reorganize-string) |
 | [0979-di-string-match](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0979-di-string-match) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -510,6 +513,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0516-longest-palindromic-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0778-reorganize-string) |
 | [0979-di-string-match](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0979-di-string-match) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
