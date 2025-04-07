@@ -47,6 +47,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0322-coin-change](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -476,6 +477,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0322-coin-change](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
