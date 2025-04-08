@@ -137,6 +137,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
@@ -221,6 +222,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Divide and Conquer
 |  |
 | ------- |
