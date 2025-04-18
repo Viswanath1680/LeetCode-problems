@@ -1,26 +1,24 @@
 class Solution {
 public:
-    string RLE(int n){
-        if( n == 2 )    return "11";
-        if( n == 3 )    return "21";
-        string prev = RLE(n-1);
-        string ans = "";
-        int i = 0, s = prev.length();
-        while( i < s ){
-            int count = 0;
-            char c = prev[i];
-            while( i < s && c == prev[i] ){
-                count++;
-                i++;
-            }
-            ans += to_string(count);
-            ans += c;
-        }
-        return ans;
-    }
-
+    // Iterative approach
     string countAndSay(int n) {
         if( n == 1 )    return "1";
-        return RLE(n);
+        string prev = "1", curr = "";
+        for( int p = 2; p <= n; p++ ){
+            curr = "";
+            int i = 0, s = prev.length();
+            while( i < s ){
+                int count = 0;
+                char c = prev[i];
+                while( i < s && c == prev[i] ){
+                    count++;
+                    i++;
+                }
+                curr += to_string(count);
+                curr += c;
+            }
+            prev = curr;
+        }
+        return curr;
     }
 };
