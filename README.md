@@ -60,6 +60,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0724-find-pivot-index](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
@@ -187,6 +188,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0645-set-mismatch](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0778-reorganize-string) |
+| [0797-rabbits-in-forest](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -361,6 +363,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
+| [0797-rabbits-in-forest](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -468,6 +471,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0435-non-overlapping-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0768-partition-labels](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0778-reorganize-string) |
+| [0797-rabbits-in-forest](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-rabbits-in-forest) |
 | [0979-di-string-match](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0979-di-string-match) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
