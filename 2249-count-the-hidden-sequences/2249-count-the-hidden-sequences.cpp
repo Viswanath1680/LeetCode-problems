@@ -20,8 +20,5 @@ public:
             }
         }
         return ( max_val < min_val ) ? 0 : (max_val - min_val + 1);
-        if( (max_val-min_val+1) < 0 )   return 0;
-        return (max_val-min_val+1);
-        return (max_val - min_val+1) < 0 ? 0 : max_val - min_val+1;
     }
 };
