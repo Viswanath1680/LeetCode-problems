@@ -102,6 +102,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -162,6 +163,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3643-zero-array-transformation-ii) |
