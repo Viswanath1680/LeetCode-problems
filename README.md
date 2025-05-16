@@ -124,6 +124,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2792-neighboring-bitwise-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -521,6 +522,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2262-solving-questions-with-brainpower) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -585,6 +587,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
