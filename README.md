@@ -85,6 +85,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1483-rank-teams-by-votes) |
@@ -715,6 +716,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -817,6 +819,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
