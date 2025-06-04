@@ -336,6 +336,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -602,6 +603,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3468-find-the-encrypted-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Memoization
 |  |
 | ------- |
@@ -845,6 +847,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2998-count-symmetric-integers) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3469-maximum-height-of-a-triangle) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Quickselect
 |  |
 | ------- |
