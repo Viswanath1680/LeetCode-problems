@@ -26,6 +26,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0066-plus-one](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0120-triangle) |
@@ -417,6 +418,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
@@ -559,6 +561,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0040-combination-sum-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0216-combination-sum-iii) |
@@ -591,6 +594,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0049-group-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0131-palindrome-partitioning) |
 | [0415-add-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0415-add-strings) |
@@ -693,6 +697,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0101-symmetric-tree) |
