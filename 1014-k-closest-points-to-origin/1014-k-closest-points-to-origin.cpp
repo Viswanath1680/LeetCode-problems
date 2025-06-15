@@ -1,33 +1,22 @@
 class Solution {
 public:
-    struct s{
-        vector<int> points;
-        int priority;
-
-        s(vector<int> pts, int p) : points(pts), priority(p){}
-    };
-
-    struct compare{
-        bool operator()(const s& a, const s& b){
-            return a.priority > b.priority;
+    struct Compare{
+        bool operator()(const vector<int>& v1, const vector<int>& v2){
+            double d1 = sqrt(pow(v1[0], 2) + pow(v1[1], 2));
+            double d2 = sqrt(pow(v2[0], 2) + pow(v2[1], 2));
+            return (d1 > d2);
         }
     };
-
+    
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        priority_queue<s, vector<s>, compare> pq;
+        // custom max_heap
+        priority_queue<vector<int>, vector<vector<int>>, Compare> max_heap(points.begin(), points.end());
 
-        for( auto pt : points ){
-            int a = pt[0], b = pt[1];
-            int priority = a * a + b * b;
-            pq.push(s(pt, priority));
+        vector<vector<int>> res;
+        while (k--) {
+            res.push_back(max_heap.top());
+            max_heap.pop();
         }
-
-        vector<vector<int>> ans;
-        while( k-- ){
-            auto top = pq.top();
-            pq.pop();
-            ans.emplace_back( top.points );
-        }
-        return ans;
+        return res;
     }
 };
