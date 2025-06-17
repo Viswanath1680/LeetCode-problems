@@ -12,6 +12,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0041-first-missing-positive) |
@@ -192,6 +193,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0076-minimum-window-substring) |
@@ -419,6 +421,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
@@ -561,6 +564,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0047-permutations-ii) |
