@@ -390,6 +390,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -575,6 +576,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0282-expression-add-operators) |
 | [1160-letter-tile-possibilities](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -607,6 +609,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0282-expression-add-operators) |
 | [0415-add-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0516-longest-palindromic-subsequence) |
