@@ -678,6 +678,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
