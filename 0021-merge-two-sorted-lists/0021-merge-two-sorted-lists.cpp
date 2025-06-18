@@ -11,40 +11,31 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* head, *node;
-        // temp1 = list1;
-        // temp2 = list2;
-        if( list1 == nullptr )  return list2;
-        if( list2 == nullptr )  return list1;
-        if( list1->val <= list2->val ){
-            head = list1;
-            list1 = list1->next;
-        }
-        else{
-            head = list2;
-            list2 = list2->next;
-        }
-        node = head;
+        if( !list1 )    return list2;
+        if( !list2 )    return list1;
+        auto val = min(list1->val, list2->val);
+        if( list1->val == val ) list1 = list1->next;
+        else    list2 = list2->next;
+        ListNode* head = new ListNode(val);
+        auto curr = head;
         while( list1 && list2 ){
-            if( list1->val <= list2->val ){
-                node->next = list1;
-                node = list1;
-                list1 = list1->next;
-            }
-            else{
-                node->next = list2;
-                node = list2;
-                list2 = list2->next;
-            }
+            auto val = min(list1->val, list2->val);
+            if( list1->val == val ) list1 = list1->next;
+            else    list2 = list2->next;
+            auto temp = new ListNode(val);
+            curr->next = temp;
+            curr = temp;
         }
         while( list1 ){
-            node->next = list1;
-            node = list1;
+            auto temp = new ListNode(list1->val);
+            curr->next = temp;
+            curr = temp;
             list1 = list1->next;
         }
-        while( list2 ){
-            node->next = list2;
-            node = list2;
+        while(list2){
+            auto temp = new ListNode(list2->val);
+            curr->next = temp;
+            curr = temp;
             list2 = list2->next;
         }
         return head;
