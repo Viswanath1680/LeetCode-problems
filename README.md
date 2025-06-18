@@ -596,6 +596,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0021-merge-two-sorted-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -682,6 +683,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
