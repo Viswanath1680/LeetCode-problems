@@ -1,13 +1,5 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+// Idea by Ravi Kiran. Push all the heads to heap rather than k pointers
+
 class Solution {
 public:
     struct comparator {
@@ -20,9 +12,7 @@ public:
         ListNode* head = new ListNode(-1);  // dummy node
         priority_queue<ListNode*, vector<ListNode*>, comparator> pq;
         
-        for (auto node : lists) {   // heads of every ll
-            if (node)    pq.push(node);
-        }
+        for (auto node : lists)    if (node)    pq.push(node);
 
         ListNode* temp = head;
         while ( pq.size() ) {
