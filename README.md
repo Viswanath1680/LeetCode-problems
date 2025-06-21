@@ -345,6 +345,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -607,6 +608,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0143-reorder-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## String
@@ -695,6 +697,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -845,6 +848,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0143-reorder-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3447-clear-digits) |
