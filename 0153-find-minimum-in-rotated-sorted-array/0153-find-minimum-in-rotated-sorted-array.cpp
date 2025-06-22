@@ -1,22 +1,21 @@
 class Solution {
 public:
-    int findMin(vector<int>& nums) {
-        int n = nums.size();
-        if( n == 1 )    return nums[0];
-        if( n == 2 )    return min( nums[0], nums[1] );
-        int l = 0, r = n-1;
-        int mid;
-        while( l <= r ){
-            if( nums[l] < nums[r] )   return nums[l];
-            if( l == r )    return nums[l];
-            mid = l + ( r- l )/2;
-            if( mid > 0 && mid < n-1 ){
-                if( nums[mid] < nums[mid-1] && nums[mid] < nums[mid+1] )
-                    return nums[mid];
-            }
-            if( nums[mid] < nums[l] )    r = mid-1;
-            else    l = mid + 1;
+    int findPivot(vector<int>& arr){
+        int n = arr.size();
+        int l = 0, h = n-1;
+        if( arr[l] < arr[h] )   return -1;
+        while( l < h ){
+            int mid = l + (h-l)/2;
+            if( arr[mid] > arr[h] ) l = mid + 1;
+            else    h = mid;
         }
-        return nums[mid];
+        return l;
+    }
+
+    int findMin(vector<int>& arr) {
+        int n = arr.size();
+        int pivot = findPivot(arr);
+        if( pivot == -1 )   return arr[0];
+        return arr[pivot];
     }
 };
