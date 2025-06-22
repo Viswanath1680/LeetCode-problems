@@ -340,6 +340,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0143-reorder-list) |
@@ -693,6 +694,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0021-merge-two-sorted-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
