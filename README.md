@@ -200,6 +200,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0049-group-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
@@ -342,6 +343,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0088-merge-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
@@ -696,6 +698,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0237-delete-node-in-a-linked-list) |
