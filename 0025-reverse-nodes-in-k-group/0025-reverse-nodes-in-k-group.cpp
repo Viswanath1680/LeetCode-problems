@@ -1,69 +1,53 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
-
-// intution - first take the k-size window, reverse it and then attach it to the LL. Iterate this..
-
-ListNode* reverseList(ListNode* head) {
-        ListNode* current = head , *prev = NULL;
-        while( current ){
-            ListNode* forward = current->next;
-            current->next = prev;
-            prev = current;
-            current = forward;
-        }
-        return prev;
-}
-
 class Solution {
 public:
-    ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* temp = head , *runner = head;
-        int k_copy = k;
-        while( k_copy ){
-            k_copy--;
-            temp = runner;
-            runner = runner->next;
+    pair<ListNode*, ListNode*> reverseList(ListNode* head) {
+        if( head == nullptr || head->next == nullptr )  return {nullptr, head};
+        ListNode* current = head, *prev = nullptr;
+        while( current ){
+            auto nextptr = current->next;
+            current->next = prev;
+            prev = current;
+            current = nextptr;
         }
-        temp ->next = nullptr;
-        head = reverseList( head );
-        temp = head;
-        while( temp->next )
+        return {prev, head};
+    }
+
+    int count(ListNode* head){
+        auto temp = head;
+        int ans = 0;
+        while( temp ){
+            ans++;
             temp = temp->next;
-        temp->next = runner;
-        if( runner == nullptr )
-            return head;
-        ListNode* temp_head_prev = temp;
-        temp = runner;
-        while( runner ){
-            k_copy = k;
-            while( runner && k_copy ){
-                k_copy--;
-                temp = runner;
-                runner = runner->next;
-            }
-            if( k_copy )
-                return head;
-            else{
-                temp->next = nullptr;
-                ListNode* dummy = temp_head_prev->next;
-                dummy = reverseList( dummy );
-                temp_head_prev->next = dummy;
-                temp = dummy;
-                while( temp->next )
-                    temp = temp->next;
-                temp->next = runner;
-                temp_head_prev = temp;
-                temp = runner;
-            }
         }
-        return head;
+        return ans;
+    }
+
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        if (k == 1 || !head) return head;
+
+        int totalNodes = count(head);
+        int groups = totalNodes / k;
+
+        auto dummy = new ListNode(0);
+        dummy->next = head;
+
+        auto prevGroupTail = dummy, curr = head;
+
+        while (groups--) {
+            ListNode* groupHead = curr;
+            ListNode* groupTail = curr;
+
+            for (int i = 1; i < k; ++i)    groupTail = groupTail->next;
+
+            auto nextGroupHead = groupTail->next;
+            groupTail->next = nullptr;
+
+            auto reversed = reverseList(groupHead);
+            prevGroupTail->next = reversed.first;
+            reversed.second->next = nextGroupHead;
+            prevGroupTail = reversed.second;
+            curr = nextGroupHead;
+        }
+        return dummy->next;
     }
 };
