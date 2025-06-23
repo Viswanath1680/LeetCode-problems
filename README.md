@@ -621,6 +621,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0038-count-and-say) |
@@ -957,6 +958,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
