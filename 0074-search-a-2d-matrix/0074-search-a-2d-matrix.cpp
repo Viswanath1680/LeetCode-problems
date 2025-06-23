@@ -1,15 +1,19 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int n = matrix.size(), m = matrix[0].size();
-        int l = 0, r = m*n - 1;
-        while( l <= r ){
-            int mid = l + ( r - l )/2;
-            int row = mid / m, col = mid % m;
-            if( matrix[row][col] == target )    return true;
-            if( matrix[row][col] > target ) r = mid-1;
-            else    l = mid + 1;
+        int m = matrix.size(), n = matrix[0].size();
+        int l = 0, h = m-1, mid;
+        int lowerbound = 0;
+        while( l <= h ){
+            mid = l + (h-l)/2;
+            if( matrix[mid][0] == target )  return true;
+            if( matrix[mid][0] >= target )   h = mid - 1;
+            else    {
+                lowerbound = mid;
+                l = mid + 1;
+            }
         }
-        return false;
+        cout << lowerbound;
+        return binary_search( matrix[lowerbound].begin(), matrix[lowerbound].end(), target );
     }
 };
