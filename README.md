@@ -421,6 +421,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
@@ -924,6 +925,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2998-count-symmetric-integers) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3469-maximum-height-of-a-triangle) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
