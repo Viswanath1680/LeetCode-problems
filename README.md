@@ -225,6 +225,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1160-letter-tile-possibilities) |
@@ -296,6 +297,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0778-reorganize-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1483-rank-teams-by-votes) |
@@ -739,6 +741,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -772,6 +775,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -804,6 +808,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0945-snakes-and-ladders) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -843,6 +848,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
