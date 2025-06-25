@@ -600,6 +600,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0282-expression-add-operators) |
 | [1160-letter-tile-possibilities](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -637,6 +638,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0282-expression-add-operators) |
 | [0415-add-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -738,6 +740,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0226-invert-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -770,6 +773,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0226-invert-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
@@ -848,6 +852,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0226-invert-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
