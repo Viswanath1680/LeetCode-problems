@@ -1,15 +1,30 @@
+// Morris traversal
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        if( !root ) return ans;
-        auto recursive = [&](auto& self, TreeNode* root) -> void{
-            if( !root ) return;
-            self(self, root->left);
-            ans.emplace_back(root->val);
-            self(self, root->right);
-        };
-        recursive(recursive, root);
+        auto curr = root;
+        while( curr ){
+            if( curr->left == nullptr ){
+                ans.emplace_back(curr->val);
+                curr = curr->right;
+            }
+            else{
+            // form temporary connection between rightmost node and curr
+            // If the connection already exists, remove it and 
+                auto node = curr->left;
+                while( node->right && node->right != curr )    node = node->right;
+                if( node->right == curr ){
+                    ans.emplace_back(curr->val);
+                    node->right = nullptr;
+                    curr = curr->right;
+                }
+                else if( node->right == nullptr ){
+                    node->right = curr;
+                    curr = curr->left;
+                }
+            }
+        }
         return ans;
     }
 };
