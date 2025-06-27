@@ -2,16 +2,29 @@ class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        if( !root ) return ans;
-        // Lambda function
-        auto recursive = [&](auto& self, TreeNode* root ) -> void{
-            if( !root ) return;
-            ans.emplace_back(root->val);
-            self(self, root->left);
-            self(self, root->right);
-        };
-
-        recursive(recursive, root);
+        auto curr = root;
+        while( curr ){
+            if( curr->left == nullptr ){
+                ans.emplace_back(curr->val);
+                // ans.emplace_back(curr->val);
+                curr = curr->right;
+            }
+            else{
+            // form temporary connection between rightmost node and curr
+            // If the connection already exists, remove it and 
+                auto node = curr->left;
+                while( node->right && node->right != curr )    node = node->right;
+                if( node->right == curr ){
+                    node->right = nullptr;
+                    curr = curr->right;
+                }
+                else if( node->right == nullptr ){
+                    ans.emplace_back(curr->val);    // First time visiting
+                    node->right = curr;
+                    curr = curr->left;
+                }
+            }
+        }
         return ans;
     }
 };
