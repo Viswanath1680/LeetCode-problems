@@ -1,26 +1,10 @@
 class Solution {
 public:
-    // Just search for an empty space
+    // Recursive solution, as Neetcode said that it is powerful
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        auto node = new TreeNode(val);
-        if( !root ) return node;
-        auto curr = root;
-        while( 1 ){
-            if( curr->val < val ){
-                if( curr->right )   curr = curr->right;
-                else{
-                    curr->right = node;
-                    break;
-                }
-            }
-            else{
-                if( curr->left )    curr = curr->left;
-                else{
-                    curr->left = node;
-                    break;
-                }
-            }
-        }
+        if( !root ) return (new TreeNode(val));
+        if( root->val < val )   root->right = insertIntoBST(root->right, val);
+        else    root->left = insertIntoBST(root->left, val);
         return root;
     }
 };
