@@ -755,6 +755,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -888,6 +889,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -911,6 +913,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0098-validate-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Queue
