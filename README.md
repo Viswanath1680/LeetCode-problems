@@ -87,6 +87,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1031-add-to-array-form-of-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1217-relative-sort-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1319-unique-number-of-occurrences) |
@@ -770,6 +771,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -906,6 +908,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -924,6 +927,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0450-delete-node-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -946,6 +950,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0144-binary-tree-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3447-clear-digits) |
@@ -953,6 +958,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
