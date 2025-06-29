@@ -1,39 +1,26 @@
 class Solution {
 public:
-    int inorderTraversal(TreeNode* root, int k) {
-        auto curr = root;
-        int ans, counter = 0;
-        while( curr ){
-            if( curr->left == nullptr ){
-                // ans.emplace_back(curr->val);
-                counter++;
-                if( counter == k )  ans = curr->val;
-                curr = curr->right;
-            }
-            else{
-            // form temporary connection between rightmost node and curr
-            // If the connection already exists, remove it and 
-                auto node = curr->left;
-                while( node->right && node->right != curr )    node = node->right;
-                if( node->right == curr ){
-                    // ans.emplace_back(curr->val);
-                    counter++;
-                    if( counter == k )  ans = curr->val;
-                    node->right = nullptr;
-                    curr = curr->right;
-                }
-                else if( node->right == nullptr ){
-                    node->right = curr;
-                    curr = curr->left;
-                }
-            }
-        }
-        return ans;
-    }
-
-
     int kthSmallest(TreeNode* root, int k) {
-        int ans = inorderTraversal(root, k);
-        return ans;
+        unordered_map<TreeNode*, int> ump;
+        ump[nullptr] = 0;
+        // computes size of every node in the tree and stores
+        auto compute_size = [&](auto& self, TreeNode* root) -> int{
+            if( !root ) return 0;
+            ump[root] = 1 + self(self, root->left) + self(self, root->right);
+            return ump[root];
+        };
+
+        compute_size(compute_size, root);
+
+        // Now binary search for k
+        // crucial step while going to root->right: k-left_size-1 so that we skip entire root->left and root 
+        auto binary_search = [&](auto& self, TreeNode* root, int k) -> int{
+            int left_size = ump[root->left];
+            if( k == left_size + 1 )    return root->val;
+            else if( k <= left_size ) return self(self, root->left, k);
+            return self(self, root->right, k-left_size-1);
+        };        
+
+        return binary_search(binary_search, root, k);
     }
 };
