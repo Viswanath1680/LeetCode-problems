@@ -1,28 +1,39 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    int count = 0;
-
-    int inorder( TreeNode* root, int k ){
-        if( !root )     return -1;
-        int left = inorder(root->left, k);
-        if( left != -1 )    return left;
-        count++;
-        if( count == k )    return root->val;
-        return inorder(root->right, k);
+    int inorderTraversal(TreeNode* root, int k) {
+        auto curr = root;
+        int ans, counter = 0;
+        while( curr ){
+            if( curr->left == nullptr ){
+                // ans.emplace_back(curr->val);
+                counter++;
+                if( counter == k )  ans = curr->val;
+                curr = curr->right;
+            }
+            else{
+            // form temporary connection between rightmost node and curr
+            // If the connection already exists, remove it and 
+                auto node = curr->left;
+                while( node->right && node->right != curr )    node = node->right;
+                if( node->right == curr ){
+                    // ans.emplace_back(curr->val);
+                    counter++;
+                    if( counter == k )  ans = curr->val;
+                    node->right = nullptr;
+                    curr = curr->right;
+                }
+                else if( node->right == nullptr ){
+                    node->right = curr;
+                    curr = curr->left;
+                }
+            }
+        }
+        return ans;
     }
 
+
     int kthSmallest(TreeNode* root, int k) {
-        return inorder(root, k);
+        int ans = inorderTraversal(root, k);
+        return ans;
     }
 };
