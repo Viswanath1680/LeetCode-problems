@@ -92,6 +92,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1127-last-stone-weight](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1127-last-stone-weight) |
 | [1217-relative-sort-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -994,6 +995,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0778-reorganize-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1127-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
