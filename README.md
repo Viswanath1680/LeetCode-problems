@@ -463,6 +463,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2998-count-symmetric-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
@@ -540,6 +541,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -653,6 +655,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0234-palindrome-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
 | ------- |
