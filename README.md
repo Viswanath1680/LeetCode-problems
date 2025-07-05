@@ -111,6 +111,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -258,6 +259,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1483-rank-teams-by-votes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -330,6 +332,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1483-rank-teams-by-votes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1483-rank-teams-by-votes) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
