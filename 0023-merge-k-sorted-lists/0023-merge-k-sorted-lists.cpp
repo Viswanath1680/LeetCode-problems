@@ -1,27 +1,30 @@
-// Idea by Ravi Kiran. Push all the heads to heap rather than k pointers
-
+// push all elements into min heap
+using ln = ListNode*;
 class Solution {
 public:
-    struct comparator {
-        bool operator()(ListNode* a, ListNode* b) {
+    // this should return b -> b's value should be minimum
+    struct Comparator{
+        bool operator()(const ln& a, const ln& b){
             return a->val > b->val;
         }
     };
 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        ListNode* head = new ListNode(-1);  // dummy node
-        priority_queue<ListNode*, vector<ListNode*>, comparator> pq;
-        
-        for (auto node : lists)    if (node)    pq.push(node);
-
-        ListNode* temp = head;
-        while ( pq.size() ) {
-            ListNode* node = pq.top();
-            pq.pop();
-            temp->next = node;
-            temp = temp->next;
-            if (node->next)    pq.push(node->next);
+        priority_queue<ln, vector<ln>, Comparator> minHeap;
+        for( auto head : lists )    {
+            if( head ) minHeap.push(head);
         }
-        return head->next;
+        ln dummy = new ListNode();
+        ln ans = dummy;
+        ln curr = ans;
+        while( minHeap.size() ){
+            auto node = minHeap.top();
+            minHeap.pop();
+            curr->next = node;
+            curr = curr->next;
+            node = node->next;
+            if( node )  minHeap.push(node);
+        }
+        return ans->next;
     }
 };
