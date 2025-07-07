@@ -141,6 +141,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2465-shifting-letters-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2551-apply-operations-to-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -282,6 +283,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2448-count-number-of-bad-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -352,6 +354,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -581,6 +584,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
+| [2479-meeting-rooms-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1042,6 +1046,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
