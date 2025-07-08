@@ -1,36 +1,43 @@
+// Similar to Rotten Oranges question
+// Push all the zeroes to the queue
+
+using pi = pair<int, int>;
+
 class Solution {
 public:
-    bool isValid(int i, int j, int m, int n){
-        if( i < 0 || i >=m || j < 0 || j >= n)  return false;
-        return true;
-    }
-
     vector<vector<int>> highestPeak(vector<vector<int>>& mat) {
-        queue<pair<int, int>> q;
         int m = mat.size(), n = mat[0].size();
-        vector<vector<int>> ans(m, vector<int>(n, -1));
-
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                if( mat[i][j] == 1 ){
-                    ans[i][j] = 0;
-                    q.push({i, j});
-                }
+        vector<vector<int>> ans(m, vector<int>(n, 0));
+        vector<vector<bool>> visited(m, vector<bool>(n, false));
+        queue<pi> q;
+        for( int i = 0; i < m; i++ ){
+            for( int j = 0; j < n; j++ ){
+                if( mat[i][j] == 0 )    continue;
+                q.push( {i, j} );
+                visited[i][j] = true;
             }
         }
-
-        int row[4] = {1, -1, 0, 0};
-        int col[4] = {0, 0, 1, -1};
+        int minutes = 1;    // rotten Oranges reference
+        vector<pi> directions = {{-1,0}, {1,0}, {0,-1}, {0,1}};
         while( q.size() ){
-            int x = q.front().first, y = q.front().second;
-            for( int i = 0; i < 4; i++ ){
-                int a = x + row[i], b = y + col[i];
-                if( isValid(a, b, m, n) && ans[a][b] == -1 ){
-                    ans[a][b] = 1 + ans[x][y];
-                    q.push({a, b});
+            int size = q.size();
+            bool isInfected = false;
+            while( size-- ){
+                auto [r, c] = q.front(); q.pop();
+                for( auto [dr, dc] : directions ){
+                    int new_r = r + dr, new_c = c + dc;
+                    if( new_r < 0 || new_r >= m || new_c < 0 || new_c >= n )    continue;
+                    if( !visited[new_r][new_c] ){
+                        visited[new_r][new_c] = true;
+                        q.push( {new_r, new_c} );
+                        if( mat[new_r][new_c] == 0 ){
+                            isInfected = true;
+                            ans[new_r][new_c] = minutes;
+                        }
+                    }
                 }
             }
-            q.pop();
+            if( isInfected )    minutes++;
         }
         return ans;
     }
