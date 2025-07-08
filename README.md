@@ -868,6 +868,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -908,6 +909,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
@@ -1058,6 +1060,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1071,6 +1074,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
