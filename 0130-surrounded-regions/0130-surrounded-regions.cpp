@@ -1,3 +1,5 @@
+// start from edges. If you find any 'O', apply bfs and store all the 'O's found from this edge 'O'. They should be remained as 'O'.
+// Make remaning 'O's as 'X
 using pi = pair<int, int>;
 
 struct hash_pair {
