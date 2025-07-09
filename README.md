@@ -120,6 +120,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1603-running-sum-of-1d-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -522,6 +523,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0945-snakes-and-ladders](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -901,6 +903,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -948,6 +951,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1089,6 +1093,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1396-count-servers-that-communicate) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
