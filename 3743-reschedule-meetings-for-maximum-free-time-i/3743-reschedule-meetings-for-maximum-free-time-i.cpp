@@ -1,3 +1,5 @@
+// No need to shift the intervals
+// Just maintain a sliding window of k+1, for the gaps. answer is the maximum sum of the gaps.
 class Solution {
 public:
     int maxFreeTime(int eventTime, int k, vector<int>& startTime, vector<int>& endTime) {
