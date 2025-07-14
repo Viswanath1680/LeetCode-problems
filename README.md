@@ -491,6 +491,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1014-k-closest-points-to-origin](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -814,6 +815,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0237-delete-node-in-a-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
