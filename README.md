@@ -245,6 +245,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0424-longest-repeating-character-replacement](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0508-most-frequent-subtree-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -859,6 +860,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0404-sum-of-left-leaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -918,6 +920,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0404-sum-of-left-leaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0463-island-perimeter) |
+| [0508-most-frequent-subtree-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
@@ -1044,6 +1047,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0404-sum-of-left-leaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
