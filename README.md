@@ -847,6 +847,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0129-sum-root-to-leaf-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0226-invert-binary-tree) |
@@ -1024,6 +1025,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0129-sum-root-to-leaf-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0226-invert-binary-tree) |
@@ -1059,6 +1061,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
@@ -1088,6 +1091,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0143-reorder-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1194,6 +1198,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0355-design-twitter) |
@@ -1235,4 +1240,8 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
