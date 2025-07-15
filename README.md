@@ -864,6 +864,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0450-delete-node-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -927,6 +928,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0463-island-perimeter](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0463-island-perimeter) |
 | [0508-most-frequent-subtree-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
@@ -986,6 +988,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0404-sum-of-left-leaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1058,6 +1061,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0450-delete-node-in-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
