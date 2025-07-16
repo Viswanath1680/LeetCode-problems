@@ -185,6 +185,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3469-maximum-height-of-a-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3469-maximum-height-of-a-triangle) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -677,6 +678,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2262-solving-questions-with-brainpower](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
