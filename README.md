@@ -83,6 +83,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0878-shifting-letters) |
+| [0881-loud-and-rich](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0881-loud-and-rich) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -954,6 +955,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0801-is-graph-bipartite](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
+| [0881-loud-and-rich](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1211,6 +1213,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0881-loud-and-rich) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1227,6 +1230,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0207-course-schedule](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0881-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
