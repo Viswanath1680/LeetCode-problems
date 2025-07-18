@@ -969,6 +969,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1030,6 +1031,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1214,6 +1216,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -1228,6 +1231,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2439-longest-cycle-in-a-graph) |
 ## Combinatorics
 |  |
 | ------- |
