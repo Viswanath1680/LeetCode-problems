@@ -91,6 +91,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0954-maximum-sum-circular-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0979-di-string-match](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0979-di-string-match) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -267,6 +268,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -754,6 +756,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0778-reorganize-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0778-reorganize-string) |
 | [0878-shifting-letters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0878-shifting-letters) |
 | [0979-di-string-match](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0979-di-string-match) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1160-letter-tile-possibilities) |
