@@ -77,6 +77,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0724-find-pivot-index](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0750-contain-virus](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0750-contain-virus) |
 | [0792-binary-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-rabbits-in-forest) |
 | [0835-linked-list-components](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0835-linked-list-components) |
@@ -535,6 +536,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0733-flood-fill) |
+| [0750-contain-virus](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0750-contain-virus) |
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1036-rotting-oranges) |
@@ -611,6 +613,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0415-add-strings) |
+| [0750-contain-virus](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0750-contain-virus) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
@@ -954,6 +957,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0687-longest-univalue-path](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0733-flood-fill) |
+| [0750-contain-virus](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0750-contain-virus) |
 | [0801-is-graph-bipartite](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0854-making-a-large-island) |
@@ -1017,6 +1021,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0733-flood-fill) |
+| [0750-contain-virus](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0750-contain-virus) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
