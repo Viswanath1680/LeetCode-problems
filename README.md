@@ -963,6 +963,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0687-longest-univalue-path](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0744-network-delay-time) |
 | [0750-contain-virus](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0750-contain-virus) |
 | [0801-is-graph-bipartite](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1029,6 +1030,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0744-network-delay-time) |
 | [0750-contain-virus](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0750-contain-virus) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
@@ -1186,6 +1188,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0355-design-twitter](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1233,6 +1236,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0210-course-schedule-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
@@ -1331,5 +1335,6 @@ DSA problems I have solved in both LeetCode and gfg
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
