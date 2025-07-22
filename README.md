@@ -141,6 +141,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1058,6 +1059,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1248,6 +1250,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
