@@ -690,6 +690,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0954-maximum-sum-circular-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1170-shortest-common-supersequence) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1248,6 +1249,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0881-loud-and-rich) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -1346,5 +1348,6 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0744-network-delay-time](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
