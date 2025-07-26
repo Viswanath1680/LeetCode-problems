@@ -141,6 +141,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
+| [2139-detect-squares](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2139-detect-squares) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
@@ -302,6 +303,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
+| [2139-detect-squares](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2139-detect-squares) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -409,6 +411,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1510-find-lucky-integer-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2139-detect-squares](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2139-detect-squares) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
@@ -1311,6 +1314,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2139-detect-squares](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2139-detect-squares) |
 | [2434-design-a-number-container-system](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
