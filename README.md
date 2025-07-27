@@ -727,6 +727,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0131-palindrome-partitioning) |
@@ -769,6 +770,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0127-word-ladder) |
