@@ -911,6 +911,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0687-longest-univalue-path) |
@@ -981,6 +982,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0547-number-of-provinces](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
@@ -1050,6 +1052,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
@@ -1133,6 +1136,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0687-longest-univalue-path) |
