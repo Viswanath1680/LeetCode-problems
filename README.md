@@ -914,6 +914,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0623-add-one-row-to-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0687-longest-univalue-path) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -985,6 +986,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0623-add-one-row-to-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0695-max-area-of-island) |
@@ -1139,6 +1141,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0623-add-one-row-to-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -1170,6 +1173,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
