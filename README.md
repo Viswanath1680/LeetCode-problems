@@ -496,6 +496,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0066-plus-one](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
@@ -594,6 +595,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0137-single-number-ii) |
@@ -723,6 +725,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0077-combinations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0126-word-ladder-ii) |
