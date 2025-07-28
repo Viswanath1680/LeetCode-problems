@@ -147,6 +147,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2249-count-the-hidden-sequences) |
@@ -613,6 +614,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2478-longest-nice-subarray) |
@@ -740,6 +742,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -1315,6 +1318,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2998-count-symmetric-integers) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3469-maximum-height-of-a-triangle) |
