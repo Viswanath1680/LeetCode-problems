@@ -171,6 +171,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -318,6 +319,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -388,6 +390,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2479-meeting-rooms-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2689-rearranging-fruits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -664,6 +667,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
