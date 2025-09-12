@@ -1,20 +1,34 @@
+using vvi = vector<vector<int>>;
+using vi = vector<int>;
+using vll = vector<long long>;
+using pi = pair<int, int>;
+using vb = vector<bool>;
+using vvb = vector<vector<bool>>;
+using vs = vector<string>;
+using vvs = vector<vector<string>>;
+using ll = long long;
+using ull = unsigned long long;
+
+// Use pq so that top element is always the max.
+// But what if the top element is not in the window l - r?
+// store every element in pq as {arr[i], i}
+// So that if top element's ind i is < l, pop it. Do it until you find a valid max in the range of window
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& arr, int k) {
-        int n = arr.size();
-        list<int> l;
-        l.push_back(arr[0]);
-        for( int i = 1; i < k; i++){
-            while( !l.empty() && arr[i] > l.back() ) l.pop_back();
-            l.push_back(arr[i]);
-        }
-        vector<int> ans;
-        ans.push_back(l.front());
-        for( int i = k; i < n ; i++){
-            if( arr[i-k] == l.front() )     l.pop_front();
-            while( !l.empty() && arr[i] > l.back() ) l.pop_back();
-            l.push_back(arr[i]);
-            ans.push_back(l.front());
+        priority_queue<pi> pq;  // [arr[i], i]
+        vi ans;
+        int l = 0;
+        for( int r = 0; r < arr.size(); r++ ){
+            if( r-l+1 < k ){
+                pq.push({arr[r], r});
+            }
+            else{
+                pq.push( {arr[r], r} );
+                while( pq.top().second < l  )    pq.pop();
+                ans.emplace_back( pq.top().first );
+                l++;
+            }
         }
         return ans;
     }
