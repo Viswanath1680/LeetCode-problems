@@ -252,6 +252,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0128-longest-consecutive-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0268-missing-number) |
@@ -501,6 +502,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0202-happy-number) |
@@ -782,6 +784,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0126-word-ladder-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
