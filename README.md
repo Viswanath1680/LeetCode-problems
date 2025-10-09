@@ -211,6 +211,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -237,6 +238,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3643-zero-array-transformation-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -654,6 +656,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3336-water-bottles-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3447-clear-digits) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
 | ------- |
