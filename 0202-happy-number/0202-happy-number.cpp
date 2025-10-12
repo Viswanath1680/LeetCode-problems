@@ -1,26 +1,27 @@
+// slow-fast ptr type, since given that cycles are possible
+using ll = long long;
 class Solution {
 public:
-    int nextNum( int n ){
-        int ans = 0;
+    ll digitSum(int n){
+        ll sum = 0;
         while( n ){
-            ans += (n%10) * (n%10);
+            int rem = n % 10;
+            sum += rem * rem;
             n /= 10;
         }
-        return ans;
+        return sum;
     }
 
     bool isHappy(int n) {
         if( n == 1 )    return true;
-        int slow , fast;
-        slow = nextNum(n);
-        fast = nextNum( n );
-        fast = nextNum( fast );
-        while( slow != fast && slow != 1 && fast != 1 ){
-            slow = nextNum(slow);
-            fast = nextNum( fast );
-            fast = nextNum( fast );
+        ll slow = digitSum(n), fast = digitSum( digitSum(n) );
+        if( slow == 1 ) return true;
+        while( fast != 1 ){
+            slow = digitSum(slow);
+            fast = digitSum( digitSum(fast) );
+            if( fast == 1 ) return true;
+            if( slow == fast )  return false;
         }
-        if( slow == 1 || fast == 1 )    return true;
-        return false;
+        return true;
     }
 };
