@@ -1,15 +1,18 @@
 class Solution {
 public:
-    int findDuplicate(vector<int>& nums) {
-        for( int i = 0 ; i < nums.size(); i++ ){
-            int index = nums[i] - 1;
-            if( nums[i] != nums[index] ){
-                swap( nums[i], nums[ index] );
-                i--;
-            }
+    // Linked List cycle detection idea
+    int findDuplicate(vector<int>& arr) {
+        int slow = 0, fast = 0;
+        slow = arr[0], fast = arr[arr[0]];
+        while( slow != fast ){
+            slow = arr[slow ];
+            fast = arr[ arr[ fast ] ];
         }
-        for( int i = 0; i < nums.size(); i++ )
-            if( nums[i] - 1 != i  ) return nums[i];
-        return nums[0];
+        int temp = 0;
+        while( temp != slow ){
+            slow = arr[slow];
+            temp = arr[temp];
+        }
+        return slow;
     }
 };
