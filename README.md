@@ -90,6 +90,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0881-loud-and-rich](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0881-loud-and-rich) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0945-snakes-and-ladders) |
@@ -379,6 +380,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0658-find-k-closest-elements](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0876-hand-of-straights) |
+| [0917-boats-to-save-people](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -461,6 +463,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0658-find-k-closest-elements](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -674,6 +677,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0778-reorganize-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0876-hand-of-straights) |
+| [0917-boats-to-save-people](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0979-di-string-match) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
