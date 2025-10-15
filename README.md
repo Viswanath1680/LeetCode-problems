@@ -109,6 +109,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1046-max-consecutive-ones-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1073-number-of-enclaves](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1073-number-of-enclaves) |
@@ -232,6 +233,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1046-max-consecutive-ones-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -505,6 +507,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0966-binary-subarrays-with-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1046-max-consecutive-ones-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -617,6 +620,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0713-subarray-product-less-than-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1753-path-with-minimum-effort) |
