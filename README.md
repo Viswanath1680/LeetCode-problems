@@ -208,6 +208,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3643-zero-array-transformation-ii) |
@@ -506,6 +507,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3463-alternating-groups-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3483-alternating-groups-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
 |  |
