@@ -191,6 +191,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2868-continuous-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -522,6 +523,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2868-continuous-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2868-continuous-subarrays) |
 | [3463-alternating-groups-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3483-alternating-groups-ii) |
@@ -1256,6 +1258,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0954-maximum-sum-circular-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2868-continuous-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
@@ -1263,6 +1266,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0239-sliding-window-maximum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2868-continuous-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2868-continuous-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -1309,6 +1313,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2868-continuous-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
@@ -1414,6 +1419,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2434-design-a-number-container-system](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2434-design-a-number-container-system) |
+| [2868-continuous-subarrays](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2868-continuous-subarrays) |
 ## Data Stream
 |  |
 | ------- |
