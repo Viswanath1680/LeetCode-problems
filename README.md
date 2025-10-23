@@ -581,6 +581,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3336-water-bottles-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3336-water-bottles-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -695,6 +696,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3336-water-bottles-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
@@ -889,6 +891,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1388,6 +1391,7 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -1438,6 +1442,7 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2610-closest-prime-numbers-in-range) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |
