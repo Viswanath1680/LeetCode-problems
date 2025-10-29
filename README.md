@@ -217,6 +217,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3643-zero-array-transformation-ii) |
@@ -252,6 +253,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2465-shifting-letters-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3643-zero-array-transformation-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -699,6 +701,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [3336-water-bottles-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3447-clear-digits) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
