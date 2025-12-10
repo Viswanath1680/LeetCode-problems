@@ -29,6 +29,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0078-subsets) |
@@ -607,6 +608,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0037-sudoku-solver](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0130-surrounded-regions) |
@@ -764,6 +766,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0053-maximum-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
