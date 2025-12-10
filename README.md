@@ -554,6 +554,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0009-palindrome-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
@@ -762,6 +763,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0045-jump-game-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -1431,6 +1433,7 @@ DSA problems I have solved in both LeetCode and gfg
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2605-count-anagrams](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2605-count-anagrams) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
