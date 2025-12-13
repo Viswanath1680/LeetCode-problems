@@ -1,13 +1,28 @@
+// Try BFS. The first instance where you get zero is the answer
+// consider a queue and push {target, till_now_coins}
+// in the next iteration, go through the coins array and subtract every coin denomination from the target and increase the till_now_coins by 1
+// to avoid redundancy, store the target in a dp. If seen this target already, just skip it. Cause this target is already acheived by a lower number of coins
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
-        int n = coins.size();
-        vector<int> dp(amount+1, INT_MAX-1);
-        dp[0] = 0;
-        for( int i = 1; i <= amount; i++){
-            for( int j = 0 ; j < n; j++ )
-                if( i >= coins[j] )  dp[i] = min( dp[i], 1 + dp[i-coins[j]] );
+        vector<bool> isSeen( amount+1, false );
+        queue<pair<int, int>> q;
+        q.push( {amount, 0} );
+
+        while( !q.empty() ){
+            auto [target, count] = q.front();   q.pop();
+            if( target == 0 )   return count;
+            for( auto& coin : coins ){
+                int new_target = target - coin;
+                if( new_target < 0 )    continue;
+                if( isSeen[new_target] )    continue;
+                // if( new_target == 0 )   return ( count + 1 );
+                isSeen[new_target] = true;
+                q.push( {new_target, count+1} );
+            }
         }
-        return ( dp[amount] >= INT_MAX-1 ? -1 : dp[amount] );
+
+        // not acheived the sum
+        return -1;
     }
 };
