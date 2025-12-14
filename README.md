@@ -584,6 +584,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2155-find-missing-observations](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -797,6 +798,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -908,6 +910,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2107-find-unique-binary-string) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
