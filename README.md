@@ -1531,4 +1531,8 @@ DSA problems I have solved in both LeetCode and gfg
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
