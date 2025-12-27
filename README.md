@@ -1534,5 +1534,6 @@ DSA problems I have solved in both LeetCode and gfg
 ## Database
 |  |
 | ------- |
+| [0183-customers-who-never-order](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
