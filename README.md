@@ -153,6 +153,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
@@ -633,6 +634,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -662,6 +664,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1138,6 +1141,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1558-course-schedule-iv](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -1214,6 +1218,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2101-detonate-the-maximum-bombs) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2439-longest-cycle-in-a-graph) |
@@ -1399,6 +1404,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1753-path-with-minimum-effort) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
