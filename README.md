@@ -577,6 +577,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1014-k-closest-points-to-origin) |
@@ -694,6 +695,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0338-counting-bits](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1024-triples-with-bitwise-and-equal-to-zero](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1024-triples-with-bitwise-and-equal-to-zero) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1786-count-the-number-of-consistent-strings) |
