@@ -844,6 +844,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0257-binary-tree-paths](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0282-expression-add-operators) |
 | [0756-pyramid-transition-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0756-pyramid-transition-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -1123,6 +1124,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0733-flood-fill](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0744-network-delay-time) |
 | [0750-contain-virus](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0750-contain-virus) |
+| [0797-all-paths-from-source-to-target](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
@@ -1199,6 +1201,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0744-network-delay-time](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0744-network-delay-time) |
 | [0750-contain-virus](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0750-contain-virus) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0797-all-paths-from-source-to-target](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0820-find-eventual-safe-states) |
@@ -1552,4 +1555,8 @@ DSA problems I have solved in both LeetCode and gfg
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
