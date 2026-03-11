@@ -78,6 +78,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0532-k-diff-pairs-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0565-array-nesting](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0565-array-nesting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0645-set-mismatch) |
@@ -1109,6 +1110,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0538-convert-bst-to-greater-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0547-number-of-provinces) |
+| [0565-array-nesting](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0623-add-one-row-to-tree) |
