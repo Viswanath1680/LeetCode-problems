@@ -782,6 +782,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0063-unique-paths-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -883,6 +884,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [0076-minimum-window-substring](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0127-word-ladder) |
