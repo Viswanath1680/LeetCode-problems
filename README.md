@@ -171,6 +171,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -640,6 +641,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [1970-last-day-where-you-can-still-cross](https://github.com/Viswanath1680/LeetCode-problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -814,6 +816,7 @@ DSA problems I have solved in both LeetCode and gfg
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Viswanath1680/LeetCode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -1563,4 +1566,8 @@ DSA problems I have solved in both LeetCode and gfg
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Viswanath1680/LeetCode-problems/tree/master/0797-all-paths-from-source-to-target) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Viswanath1680/LeetCode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
